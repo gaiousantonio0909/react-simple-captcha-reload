@@ -4,17 +4,20 @@
     "description": "Credits to Masroor Ejaz, I just added few things on this code and its not mine",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-      "react-captcha"
+        "react-captcha"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gaiousantonio0909/react-simple-captcha-reload.git"
+    },
     "author": "Gaious A",
     "license": "ISC",
     "dependencies": {
-      "react": "^17.0.2",
-      "react-dom": "^17.0.2",
-      "react-html-parser": "^2.0.2"
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-html-parser": "^2.0.2"
     }
-  }
-  
+}
