@@ -1,0 +1,20 @@
+{
+    "name": "react-simple-captcha-reload",
+    "version": "1.0.0",
+    "description": "Credits to Masroor Ejaz, I just added few things on this code and its not mine",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-captcha"
+    ],
+    "author": "Gaious A",
+    "license": "ISC",
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-html-parser": "^2.0.2"
+    }
+  }
+  
